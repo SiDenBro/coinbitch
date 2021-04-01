@@ -38,7 +38,7 @@ class RunChromeTests():
         driver.close()
         driver.quit()
 
-FLAG = "subs"
+FLAG = "webs"
 # subs
 # bots
 # webs
